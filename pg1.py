@@ -1,5 +1,5 @@
 import pg8000
-
+# CONNECTION
 
 def program():
     conn = pg8000.connect(
